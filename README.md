@@ -25,20 +25,6 @@
 
 <br>
 
-### **1-0. 배포 링크**
-
-<div>
-  <img alt="오늘바다 QR Code" src="./src/views/assets/image/todaysea_QR.png">
-</div>
-
-### http://kdt-sw3-team03.elicecoding.com/
-
-<br>
-
----
-
-<br>
-
 ### **1-1. 서비스 기획**
 
 ---
