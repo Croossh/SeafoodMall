@@ -45,20 +45,20 @@
    > - 카테고리 관리 기능
    > - 상품 관리 기능
    > - 주문 관리 기능
-
----
-
-<br />
-
 #### **기획안 링크**
 
 ### https://www.notion.so/3821f5c24f63448e8d0c5087b6b40d0f#a87b9ff1cca54c28a88cee1c3d82ead9
-<img alt="와이어프레임" src="src/views/assets/image/서비스구조도.jpg">
+---
+<br />
+
+### 1-2 **서비스 구조도**
+<img alt="서비스 구조도" src="src/views/assets/image/서비스 구조도.png">
+
 <br />
 
 ---
 
-### 1-2. **와이어프레임**
+### 1-3. **와이어프레임**
 
 ### https://www.figma.com/file/BR3WBFKniUGtdlR3aqyna4/OneulBada?node-id=0%3A1&t=VOLLpA4pIqA3nYSL-0
 <img alt="와이어프레임" src="src/views/assets/image/와이어프레임.jpg">
@@ -68,7 +68,7 @@
 
 <br />
 
-### 1-3. **자료 구조 설계, DB Schema**
+### 1-4. **자료 구조 설계, DB Schema**
 
 ### https://www.erdcloud.com/d/gkDc5r2oqNCWCYhLe
 <img alt="와이어프레임" src="src/views/assets/image/DB구조.jpg">
@@ -79,7 +79,7 @@
 
 <br />
 
-### 1-4. **API 문서**
+### 1-5. **API 문서**
 
 ### https://www.notion.so/a259c06258e04e859a97327466715e1a?v=d41a4abdc4554bc38816f32f3f09da57
 <img alt="와이어프레임" src="src/views/assets/image/API.jpg">
